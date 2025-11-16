@@ -6,7 +6,11 @@
 
 Steam API: https://store.steampowered.com/api/
 (API documentation here: https://steamcommunity.com/dev)
+
 OpenAPI link is in .env file
 (API documentation here: https://openai.com/api/)
-6. ayou@terpmail.umd.edu
-7. https://steamreviewsummarizer.onrender.com/
+
+ayou@terpmail.umd.edu
+ycai12@terpmail.umd.edu
+
+URL: https://steamreviewsummarizer.onrender.com/
